@@ -10,12 +10,11 @@ that is the line length of the mind stone UI
 within the game.
 */
 
-import fishing
-import my/00_rocky_plateau
-import my/01_deadwood_canyon
-import my/02_caves_of_fear
-import my/03_mushroom_forest
-import my/04_haunted_halls
-import my/05_boiling_mine
-import my/06_icy_ridge
-import my/07_temple
+import 00_rocky_plateau
+import 01_deadwood_canyon
+import 02_caves_of_fear
+import 03_mushroom_forest
+import 04_haunted_halls
+import 05_boiling_mine
+import 06_icy_ridge
+import 07_temple
