@@ -29,8 +29,8 @@ func equip_ranged_shield()
   equipR shield *10 aether +3
 
 func equip_armor_piercing()
-  equipL warhammer *10 poison +5
-  equipR warhammer *10 +8
+  equipL hammer *10 poison +5
+  equipR hammer *10 +8
 
 ?loc = mine
   // Small enemies
